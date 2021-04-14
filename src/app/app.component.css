@@ -1,0 +1,31 @@
+.formUser{
+  width: 40%;
+  margin: 0 auto;
+  margin-top: 50px;
+  border: 1px solid;
+  padding: 2%;
+}
+
+.frmButton{
+  margin-right: 10px;
+  margin-bottom: 15px;
+  margin-top: 10px;
+}
+
+.divSearch{
+  width: 40%;
+  margin: 0 auto;
+  margin-top: 50px;
+  border: 1px solid;
+  padding: 2%;
+  margin-bottom: 50px;
+}
+
+.divListUsers{
+  width: 40%;
+  margin: 0 auto;
+  margin-top: 50px;
+  border: 1px solid;
+  padding: 2%;
+  margin-bottom: 50px;
+}
